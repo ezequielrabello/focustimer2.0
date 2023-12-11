@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    font-size: 62.5%;
+    --color-white: #ffffff;
+    --color-text: #323238;
+    --color-bc-selected: #02799D;
+    --color-bcnot-selected: #E1E1E6;
+}
+
+body {
+    font-size: 1.6rem;
+    font-family: 'Roboto', sans-serif;
+    background-color: var(--color-white);
+    display: grid;
+    height: 100vh;
+    place-content: center;
+}
+
+main {
+    display: flex;
+    gap: 19.2rem;
+    place-items: center;
+}
+
+#timer {
+    display: flex;
+    justify-items: center;
+    justify-self: center;
+}
+
+input {
+    color: var(--color-text);
+    width: 15rem;
+    font-size: 12.6rem;
+    border: 0;
+}
+
+input::placeholder {
+    color: var(--color-text);
+}
+
+#timer span, #timing {
+    font-size: 12.6rem; 
+    color: var(--color-text);
+}
+
+ 
+
+#controls {
+    display: flex;
+    gap: 4rem;
+}
+
+#controls button {
+    font-size: 4.8rem;
+    border: none;
+    background-color: var(--color-white);
+    color: var(--color-text);
+    cursor: pointer;
+}
+
+#modes {
+    display: grid;
+    grid-template-areas: 'a b' 'c d ';
+    gap: 3.2rem;
+}
+
+#modes button {
+    background-color: var(--color-bcnot-selected);
+    border: none;
+    border-radius: 2.4rem;
+    width: 13.8rem;
+    height: 15.2rem;
+    font-size: 5.8rem;
+    color: var(--color-text);
+    cursor: pointer;
+}
+
+#modes button:hover {
+    background-color: var(--color-bc-selected);
+    color: var(--color-white);
+    transition: 500ms;
+}
+
+/* fazendo a parte do :not  */
+
+.running .ph-play-circle,
+.running input, 
+.running #display,
+html:not(.running) .ph-pause-circle,
+html:not(.running) #timing {
+    display: none;
+}
+
+#modes button.soundOn{
+    background-color: var(--color-bc-selected);
+    color: var(--color-white);
+}
