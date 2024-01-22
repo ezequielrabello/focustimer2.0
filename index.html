@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br" class="">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap" rel="stylesheet">
+    <title>FocusTimer 2.0</title>
+    <link rel="shortcut icon" href="./assets/favicon.svg" type="image/x-svg">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+</head>
+<body>
+    <main>
+
+        <div class="display">
+               
+            <div id="timer">
+                <!-- <input type="number" id="minutes" placeholder="25" max="59" min="0" > -->
+                
+                <span id="minutes">25</span>
+                <span id="pontos">:</span>
+                <span id="seconds">00</span>
+
+                <!-- <input type="number" id="seconds" placeholder="00" max="59" min="0"> -->
+            </div>
+
+            <div id="controls">
+                <button action="start" id="play" class="ph ph-play-circle"></button>
+                <button action="start" id="pause" class="ph ph-pause-circle"></button> 
+                <button action="reset" id="stop" class="ph ph-stop-circle"></button>
+                <button id="plusFive" class="ph ph-plus-circle"></button>
+                <button id="minusFive" class="ph ph-minus-circle"></button>
+            </div>
+
+        </div>
+
+        <section id="modes">
+    
+            <button class="ph ph-tree" id="floresta"></button>
+            <button class="ph ph-cloud-rain" id="chuva" ></button>
+            <button class="ph ph-storefront" id="cafeteria"></button>
+            <button class="ph ph-flame" id="lareira"></button>
+    
+        </section>
+
+    </main>
+    <script src="./Javascript/main0.js"></script>
+</body>
+</html>
