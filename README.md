@@ -1,6 +1,6 @@
-### FocusTimer 2.0
+## FocusTimer 2.0
 
-A projet suggested by RocketSeat!  
+#### A project suggested by RocketSeat!  
 <img src="/assets/readmepic.png">
 
 In this project, I created a timer with some functions to help people who want to concentrate 
