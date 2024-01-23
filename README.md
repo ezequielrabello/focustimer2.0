@@ -4,15 +4,15 @@
 <img src="/assets/readmepic.png">
 
  
-## 🛠 Tecnologies
-This project was delevoped with the following tecnologies:
+## 🛠 Technologies
+This project was developed with the following technologies:
 - Javascript 
 - HTML
 - CSS
 ## 💻 About the project
 In this project, I created a Timer with a few functions to help people who want to concentrate on their studies!
 
-The Timer that allows you to Pause and increase or decrease minutes. Not only that, but you can also set the kind of environment and climate that you want to be at, such as:
+The Timer allows you to pause and increase or decrease minutes. Not only that, but you can also set the kind of environment and climate that you want to be in, such as:
 - Rain 🌧️
 - Nature 🌳
 - Fireplace 🔥
