@@ -1,4 +1,4 @@
-# FocusTimer 2.0
+# ⏲️ FocusTimer 2.0
 
 #### A project suggested by RocketSeat!  
 <img src="/assets/readmepic.png">
@@ -14,9 +14,9 @@ In this project, I created a Timer with a few functions to help people who want 
 
 The Timer that allows you to Pause and increase or decrease minutes. Not only that, but you can also set the kind of environment and climate that you want to be at, such as:
 - Rain 🌧️
-- nature 🌳
-- fireplace 🔥
-- cafeteria ☕ 
+- Nature 🌳
+- Fireplace 🔥
+- Cafeteria ☕ 
 
 ## 🔗 Links
 
