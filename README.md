@@ -1,7 +1,7 @@
 # ⏲️ FocusTimer 2.0
 
 #### A project suggested by RocketSeat!  
-<img src="/assets/readmepic.png">
+<img src="/assets/github_1.gif">
 
  
 ## 🛠 Tecnologies
