@@ -1,8 +1,12 @@
-# ⏲️ FocusTimer 2.0
+<h1 align="center"> ⏲️ FocusTimer 2.0 </h1>
 
 #### A project suggested by RocketSeat!  
-<img src="/assets/github_1.gif">
+<p align="center"> <img src="/assets/github_1.gif" width="100%"> </p>
 
+<p align="center">
+  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
  
 ## 🛠 Technologies
 This project was developed with the following technologies:
