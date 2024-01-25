@@ -1,6 +1,6 @@
 <h1 align="center"> ⏲️ FocusTimer 2.0 </h1>
 
-<p align="center"> A project suggested by RocketSeat! </p> 
+<p align="center"> A <strong>RocketSeat</strong> project. </p> 
 <p align="center"> <img src="/assets/github_1.gif" width="100%"> </p>
 
  
