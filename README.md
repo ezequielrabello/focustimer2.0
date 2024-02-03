@@ -16,7 +16,9 @@ The Timer allows you to pause and increase or decrease minutes. Not only that, b
 - Rain 🌧️
 - Nature 🌳
 - Fireplace 🔥
-- Cafeteria ☕ 
+- Cafeteria ☕
+
+You can try it out yourself on this link: https://ezequielrabello.github.io/focustimer2.0/
 
 ## 🔗 Links
 
