@@ -18,8 +18,8 @@ The Timer allows you to pause and increase or decrease minutes. Not only that, b
 - Fireplace 🔥
 - Cafeteria ☕
 
-You can try it out yourself on this link: https://ezequielrabello.github.io/focustimer2.0/
-
+You can try it out yourself on this link: [https://ezequielrabello.github.io/focustimer2.0/
+](https://focustimer2-0-ten.vercel.app/)
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequiel-rabello-1587002aa/)
