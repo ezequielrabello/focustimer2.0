@@ -21,16 +21,20 @@ body {
     place-content: center;
 }
 
-main {
+/* main {
     display: flex;
     gap: 19.2rem;
     place-items: center;
-}
+} */
 
 #timer {
     display: flex;
     justify-items: center;
     justify-self: center;
+}
+
+.display {
+    margin-bottom: 50px;
 }
 
 /* input {
@@ -101,5 +105,13 @@ html:not(.running) .ph-pause-circle
 #modes button.soundOn{
     background-color: var(--color-bc-selected);
     color: var(--color-white);
+}
+
+@media screen and (min-width: 768px) {
+    main {
+        display: flex;
+        gap: 19.2rem;
+        place-items: center;
+    } 
 }
 
